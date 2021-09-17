@@ -1,0 +1,10 @@
+18:59:58.000 [TestNG-tests-3] INFO  resources.Base - Hitting the URL
+19:00:11.404 [TestNG-tests-2] INFO  resources.Base - Checking Cart is Displayed or not
+19:00:13.073 [TestNG-tests-1] INFO  resources.Base - Checking Search Box is Displayed or not
+19:00:17.544 [TestNG-tests-3] INFO  resources.Base - Moved to the sigin element
+19:00:22.338 [TestNG-tests-3] INFO  resources.Base - clicked on sigin button
+19:00:52.484 [AsyncHttpClient-1-6] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-6
+19:00:52.485 [AsyncHttpClient-1-5] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-5
+19:00:52.486 [AsyncHttpClient-1-7] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-7
+19:00:52.491 [AsyncHttpClient-1-8] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-8
+19:00:52.491 [AsyncHttpClient-1-9] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-9
